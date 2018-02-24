@@ -704,6 +704,7 @@ a.close-overlay.hidden {
   display: none; }
 
 a.expand {
+  pointer-events: none;
   display: block;
   position: absolute;
   z-index: 100;
