@@ -759,6 +759,9 @@ a.expand {
   margin-right: auto;
   top: 50px; }
 
+.dark-bg.text-center.section-padding.contact-wrap {
+  padding-top: 0; }
+
 /* ==========================================================================
 Subscribe
 ========================================================================== */
